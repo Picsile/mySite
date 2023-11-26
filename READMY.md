@@ -2,4 +2,4 @@
 
 ## Страница сайта:
 
-<!-- ссылка -->
+https://picsile.github.io/mySite/
